@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519015172969",
+    "firebase_url": "https://ratingbase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ratingbase",
+    "storage_bucket": "ratingbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519015172969:android:2e0a7b78ef3405099f0bf8",
+        "android_client_info": {
+          "package_name": "com.example.quizmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519015172969-fak8a6h6oe81r797hqoa14sabs5hlqt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiKpQnU_pnfeqC3eJQULvgRrvTdmi7Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519015172969-fak8a6h6oe81r797hqoa14sabs5hlqt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
